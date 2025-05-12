@@ -10,9 +10,9 @@
 
 - 💼 +20 anos de experiência em Infraestrutura, DevOps e Segurança da Informação
 - 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio
-- 🧠 Estudando **Python**, **Inteligência Artificial** e **Machine Learning**
+- 🧠 Estudando **Python**, **Full Stack Python**, **Inteligência Artificial** e **Machine Learning**
 - 🔄 Transição de carreira estratégica para o desenvolvimento de soluções inovadoras
-- 🎯 Objetivo: atuar com **IA aplicada**, **Desenvolvimento**, **automação inteligente** e **pesquisa tecnológica**
+- 🎯 Objetivo: atuar com **IA aplicada**, **desenvolvimento**, **automação inteligente** e **pesquisa tecnológica**
 
 ---
 
