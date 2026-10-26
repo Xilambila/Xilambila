@@ -1,0 +1,7 @@
+event_id,timestamp_utc,source,actor,asset,action,outcome,source_ip
+LAB-E001,2026-01-15T09:00:00Z,synthetic-identity,lab-user-01,lab-reporting-service,sign-in,success,192.0.2.10
+LAB-E002,2026-01-15T09:11:00Z,synthetic-identity,lab-user-01,lab-reporting-service,new-device-sign-in,success,198.51.100.20
+LAB-E003,2026-01-15T09:12:00Z,synthetic-detector,lab-user-01,lab-reporting-service,session-risk-alert,investigate,198.51.100.20
+LAB-E004,2026-01-15T09:14:00Z,synthetic-application,lab-user-01,lab-reporting-service,restricted-report-request,denied,198.51.100.20
+LAB-E005,2026-01-15T09:17:00Z,synthetic-response,lab-user-01,lab-reporting-service,trusted-channel-confirmation,session-not-recognized,
+LAB-E006,2026-01-15T09:20:00Z,synthetic-response,lab-responder-01,lab-reporting-service,containment-decision,approved-in-tabletop,
