@@ -12,6 +12,7 @@ I approach security through visibility, least privilege, continuous testing, cle
 |---|---|---|
 | [DirBridge IAM Lab](https://github.com/Xilambila/dirbridge-iam-lab) | Security review of an identity request prototype, safer rendering, validation and regression tests | Runnable local lab; no directory integration |
 | [IP Triage Lab](https://github.com/Xilambila/ip-triage-lab) | Offline IPv4/IPv6 classification with documentation ranges and edge-case tests | Runnable CLI; no reputation or threat assessment |
+| [Security Awareness Lab](https://github.com/Xilambila/security-awareness-lab) | Neutral phishing-awareness project skeleton, governance, privacy and fictional fixtures | Static scaffold; no email delivery or campaign execution |
 | [Incident response tabletop](showcases/incident-response/README.md) | Synthetic timeline, competing hypotheses, containment criteria and recovery evidence | Tabletop exercise |
 | [Business-aware vulnerability prioritization](showcases/vulnerability-prioritization/README.md) | Why exposure, exploitability, asset criticality and controls change the remediation order | Synthetic decision exercise |
 | [Cloud IAM control design](showcases/cloud-iam-design/README.md) | Least privilege, trust boundaries, observability and negative test plan | Design exercise; not deployed |
