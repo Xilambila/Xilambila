@@ -38,7 +38,7 @@ docs/case-study-template.md              Evidence-based format for future cases
 docs/publication-standard.md             Data handling and publication checks
 ```
 
-[Publication standard](docs/publication-standard.md) · [Case study template](docs/case-study-template.md) · [LinkedIn](https://www.linkedin.com/in/edsondanilo/)
+[Publication standard](docs/publication-standard.md) · [Case study template](docs/case-study-template.md) · [LinkedIn](https://www.linkedin.com/in/edsondmf/)
 
 ## Em português
 
